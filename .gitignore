@@ -1,0 +1,16 @@
+# Rust specific ignores
+/target/            # Rustのビルド成果物（実行ファイル、ライブラリなど）が生成されるディレクトリ
+/Cargo.lock         # Cargoが依存関係の正確なバージョンを記録するファイル。
+                    # 通常はコミットするべきですが、個人開発で依存が固定されているうちは除外する選択肢もあります。
+                    # 複数人での開発の場合はコミットが推奨されます。
+                    # ★今回は一旦除外の例に入れておきますが、基本はコミット推奨です。
+
+# OS generated files
+.DS_Store           # macOSで生成されるフォルダ情報ファイル
+Thumbs.db           # Windowsで生成されるサムネイルキャッシュファイル
+
+# IDE / Editor specific ignores
+.vscode/            # VS Codeの設定ディレクトリ（プロジェクト固有の設定ファイルなど）
+.idea/              # IntelliJ IDEA（RustRoverなど）の設定ディレクトリ
+*.swp               # Vimなどのエディタが生成する一時ファイル
+*~                  # 一部のエディタが生成するバックアップファイル
