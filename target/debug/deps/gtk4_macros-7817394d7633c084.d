@@ -1,9 +1,0 @@
-/home/dev-rust/rust_projects/rust_gui_projects/my_first_gtk_app/target/debug/deps/gtk4_macros-7817394d7633c084.d: /home/dev-rust/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gtk4-macros-0.10.0/src/lib.rs /home/dev-rust/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gtk4-macros-0.10.0/src/attribute_parser.rs /home/dev-rust/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gtk4-macros-0.10.0/src/composite_template_derive.rs /home/dev-rust/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gtk4-macros-0.10.0/src/template_callbacks_attribute.rs /home/dev-rust/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gtk4-macros-0.10.0/src/util.rs
-
-/home/dev-rust/rust_projects/rust_gui_projects/my_first_gtk_app/target/debug/deps/libgtk4_macros-7817394d7633c084.so: /home/dev-rust/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gtk4-macros-0.10.0/src/lib.rs /home/dev-rust/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gtk4-macros-0.10.0/src/attribute_parser.rs /home/dev-rust/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gtk4-macros-0.10.0/src/composite_template_derive.rs /home/dev-rust/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gtk4-macros-0.10.0/src/template_callbacks_attribute.rs /home/dev-rust/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gtk4-macros-0.10.0/src/util.rs
-
-/home/dev-rust/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gtk4-macros-0.10.0/src/lib.rs:
-/home/dev-rust/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gtk4-macros-0.10.0/src/attribute_parser.rs:
-/home/dev-rust/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gtk4-macros-0.10.0/src/composite_template_derive.rs:
-/home/dev-rust/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gtk4-macros-0.10.0/src/template_callbacks_attribute.rs:
-/home/dev-rust/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gtk4-macros-0.10.0/src/util.rs:
